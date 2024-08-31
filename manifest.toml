@@ -17,7 +17,7 @@ admindoc = "https://github.com/glanceapp/glance/blob/main/docs/configuration.md"
 code = "https://github.com/glanceapp/glance"
 
 [integration]
-yunohost = ">= 11.2.18"
+yunohost = ">= 11.2.29"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
