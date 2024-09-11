@@ -34,7 +34,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Versión actual:** 0.6.0~ynh1
+**Versión actual:** 0.6.1~ynh1
 
 ## Capturas
 
@@ -49,7 +49,7 @@ A self-hosted dashboard that puts all your feeds in one place.
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/glance_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/glance_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

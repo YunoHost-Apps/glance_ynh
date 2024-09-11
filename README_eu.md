@@ -34,7 +34,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Paketatutako bertsioa:** 0.6.0~ynh1
+**Paketatutako bertsioa:** 0.6.1~ynh1
 
 ## Pantaila-argazkiak
 
