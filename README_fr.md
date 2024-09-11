@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Tableau de bord auto-hébergé qui regroupe tous vos flux au même endroit.
 
-**Version incluse :** 0.6.1~ynh1
+**Version incluse :** 0.6.1~ynh2
 
 ## Captures d’écran
 
