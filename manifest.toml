@@ -7,7 +7,7 @@ name = "Glance"
 description.en = "Self-hosted dashboard that puts all your feeds in one place"
 description.fr = "Tableau de bord auto-hébergé qui regroupe tous vos flux au même endroit"
 
-version = "0.6.1~ynh1"
+version = "0.6.1~ynh2"
 
 maintainers = ["eric_G"]
 
@@ -17,7 +17,8 @@ admindoc = "https://github.com/glanceapp/glance/blob/main/docs/configuration.md"
 code = "https://github.com/glanceapp/glance"
 
 [integration]
-yunohost = ">= 11.2.28"
+yunohost = ">= 11.2.30"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
