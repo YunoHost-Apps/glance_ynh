@@ -34,7 +34,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Versi terkirim:** 0.6.1~ynh2
+**Versi terkirim:** 0.6.2~ynh1
 
 ## Tangkapan Layar
 
