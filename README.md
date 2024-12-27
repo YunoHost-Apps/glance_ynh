@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Glance for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/glance.svg)](https://ci-apps.yunohost.org/ci/apps/glance/) ![Working status](https://ci-apps.yunohost.org/ci/badges/glance.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/glance.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
+![Working status](https://apps.yunohost.org/badge/state/glance)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/glance)
 
 [![Install Glance with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glance)
 
@@ -34,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Shipped version:** 0.6.2~ynh1
+**Shipped version:** 0.6.4~ynh1
 
 ## Screenshots
 

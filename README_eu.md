@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Glance YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/glance.svg)](https://ci-apps.yunohost.org/ci/apps/glance/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/glance.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/glance.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/glance)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/glance)
 
 [![Instalatu Glance YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glance)
 
@@ -34,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Paketatutako bertsioa:** 0.6.2~ynh1
+**Paketatutako bertsioa:** 0.6.4~ynh1
 
 ## Pantaila-argazkiak
 

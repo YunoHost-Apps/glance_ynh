@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Glance voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/glance.svg)](https://ci-apps.yunohost.org/ci/apps/glance/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/glance.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/glance.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/glance)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/glance)
 
 [![Glance met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glance)
 
@@ -34,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Geleverde versie:** 0.6.2~ynh1
+**Geleverde versie:** 0.6.4~ynh1
 
 ## Schermafdrukken
 

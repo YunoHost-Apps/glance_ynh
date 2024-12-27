@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Glance untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/glance.svg)](https://ci-apps.yunohost.org/ci/apps/glance/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/glance.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/glance.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
+![Status kerja](https://apps.yunohost.org/badge/state/glance)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/glance)
 
 [![Pasang Glance dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glance)
 
@@ -34,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Versi terkirim:** 0.6.2~ynh1
+**Versi terkirim:** 0.6.4~ynh1
 
 ## Tangkapan Layar
 

@@ -5,7 +5,9 @@
 
 # Glance для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/glance.svg)](https://ci-apps.yunohost.org/ci/apps/glance/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/glance.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/glance.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
+![Состояние работы](https://apps.yunohost.org/badge/state/glance)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/glance)
 
 [![Установите Glance с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glance)
 
@@ -34,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Поставляемая версия:** 0.6.2~ynh1
+**Поставляемая версия:** 0.6.4~ynh1
 
 ## Снимки экрана
 
