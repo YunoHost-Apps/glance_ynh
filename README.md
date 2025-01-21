@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Shipped version:** 0.6.4~ynh1
+**Shipped version:** 0.6.4~ynh2
 
 ## Screenshots
 

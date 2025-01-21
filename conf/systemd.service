@@ -1,5 +1,5 @@
 [Unit]
-Description=Glance: Self-hosted dashboard
+Description=Glance: self-hosted dashboard
 After=network.target
 
 [Service]
