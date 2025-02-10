@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Versión actual:** 0.7.0~ynh1
+**Versión actual:** 0.7.1~ynh1
 
 ## Capturas
 
