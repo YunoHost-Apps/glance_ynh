@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Geleverde versie:** 0.6.4~ynh2
+**Geleverde versie:** 0.7.0~ynh1
 
 ## Schermafdrukken
 
