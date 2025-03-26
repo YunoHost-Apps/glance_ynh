@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Paketatutako bertsioa:** 0.7.7~ynh1
+**Paketatutako bertsioa:** 0.7.8~ynh1
 
 ## Pantaila-argazkiak
 
@@ -53,7 +53,7 @@ A self-hosted dashboard that puts all your feeds in one place.
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/glance_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/glance_ynh/tree/testing --debug
