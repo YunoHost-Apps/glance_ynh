@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# Glance para Yunohost
+# Glance para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/glance)](https://ci-apps.yunohost.org/ci/apps/glance/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/glance)
@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**Versión actual:** 0.7.7~ynh1
+**Versión actual:** 0.7.8~ynh1
 
 ## Capturas
 
