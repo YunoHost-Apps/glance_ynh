@@ -36,7 +36,7 @@ A self-hosted dashboard that puts all your feeds in one place.
     Site monitor
 
 
-**分发版本：** 0.7.8~ynh1
+**分发版本：** 0.7.9~ynh1
 
 ## 截图
 
