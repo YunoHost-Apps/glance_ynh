@@ -7,7 +7,7 @@ name = "Glance"
 description.en = "Self-hosted dashboard that puts all your feeds in one place"
 description.fr = "Tableau de bord auto-hébergé qui regroupe tous vos flux au même endroit"
 
-version = "0.7.10~ynh1"
+version = "0.7.11~ynh1"
 
 maintainers = []
 
@@ -45,14 +45,14 @@ ram.runtime = "50M"
     [resources.sources.main]
     in_subdir = false
     extract   = true
-    amd64.url = "https://github.com/glanceapp/glance/releases/download/v0.7.10/glance-linux-amd64.tar.gz"
-    amd64.sha256 = "72ea756bc8e893372ca507e350ab2f959f195de5a167255ee43bbc37cce7f293"
-    arm64.url = "https://github.com/glanceapp/glance/releases/download/v0.7.10/glance-linux-arm64.tar.gz"
-    arm64.sha256 = "427002191f6ce17fa006ff1f5d3277a94eed1070e4c2399321f0f8517f2fe488"
-    armhf.url = "https://github.com/glanceapp/glance/releases/download/v0.7.10/glance-linux-armv7.tar.gz"
-    armhf.sha256 = "06e44ae49ce4f097aaec57b4ccb99211e8abfcee7fd71297c366420109e12de1"
-    i386.url = "https://github.com/glanceapp/glance/releases/download/v0.7.10/glance-linux-386.tar.gz"
-    i386.sha256 = "9cd3e57cb6654e08a4df2651e4b2936f39619664d9b7b7f9c1a68b12ca664ac8"
+    amd64.url = "https://github.com/glanceapp/glance/releases/download/v0.7.11/glance-linux-amd64.tar.gz"
+    amd64.sha256 = "bffccd36226a30a2a0b6dcdbb198a5cb83ec4a561b01b02419f58ec49076d359"
+    arm64.url = "https://github.com/glanceapp/glance/releases/download/v0.7.11/glance-linux-arm64.tar.gz"
+    arm64.sha256 = "f5e9d5cb03104920fcd6d2738ce1af4c30e40c75f3a5621951d845455e20613f"
+    armhf.url = "https://github.com/glanceapp/glance/releases/download/v0.7.11/glance-linux-armv7.tar.gz"
+    armhf.sha256 = "c0bde61425b3a3afd5adb1b7bd180663bd99d82f909b2609a73e432ac565c1d1"
+    i386.url = "https://github.com/glanceapp/glance/releases/download/v0.7.11/glance-linux-386.tar.gz"
+    i386.sha256 = "c587404bf4777ae946f3c9603ab4766099f8cfab11c17614bbbc2e3c2104e88e"
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = "^glance-linux-amd64.tar.gz$"
